@@ -14,7 +14,7 @@
 
 ![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23ED8B00.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%230059b3.svg?&style=for-the-badge)
 
 ## Contact 

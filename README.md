@@ -1,6 +1,6 @@
 ## Hello!
 
-* I'm a spanish developer, coding in **C#** & **Python** (and briefly other languages). I code mainly games and some utils libraries. I particularly like data processing, machine learning and simulation.
+* I'm a spanish developer, coding in **C#** & **PHP** (and briefly other languages). I code mainly games and some utils libraries. I particularly like data processing, machine learning and simulation.
 * I have System Engineer degree at the **UNPHU**, **Dominican Republic**.
 
 ## Main programming languages 

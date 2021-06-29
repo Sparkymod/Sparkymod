@@ -12,9 +12,9 @@
 
 ## Technologies 
 
-![Unity](https://img.shields.io/badge/UNITY%20-%23100000.svg?&style=flat&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/GIT%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-%23133337.svg?&style=flat&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity%20-%23100000.svg?&style=flat&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23133337.svg?&style=flat&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET_5.0-%230059b3.svg?&style=flat)
 
 ## Contact 

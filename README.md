@@ -15,7 +15,7 @@
 ![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=flat&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23133337.svg?&style=flat&logo=mysql&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-%230059b3.svg?&style=flat)
+![.Net](https://img.shields.io/badge/.NET_5.0-%230059b3.svg?&style=flat)
 
 ## Contact 
 

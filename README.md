@@ -32,4 +32,4 @@
 <img align="middle" alt="RPI" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" />
 
 ---
-<img align="left" alt="Sparkymod's Github Stats" src="https://github-readme-stats-sparkymod.vercel.app/api?username=Sparkymod&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="Sparkymod's Github Stats" src="https://github-readme-stats-sparkymod.vercel.app/api?username=Sparkymod&show_icons=true&hide_border=true&theme=merko" />

@@ -32,4 +32,4 @@
 
 ---
 <img align="left" width="440px" src="https://github-readme-stats-sparkymod.vercel.app/api?username=Sparkymod&show_icons=true&theme=dracula&hide_border=true" />
-<img align="right"  width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkymod&layout=compact&theme=dracula&hide_border=true" />
+<img align="center" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkymod&layout=compact&theme=dracula&hide_border=true" />

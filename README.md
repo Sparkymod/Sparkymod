@@ -14,13 +14,6 @@
 * **Discord:** Sparkmod#1935 
 * **Youtube:** [My Channel](https://www.youtube.com/c/funpixart)
 
-
----
-<img align="left" src="https://github-readme-stats-sparkymod.vercel.app/api?username=Sparkymod&show_icons=true&theme=dracula&hide_border=true" />
-<img align="center"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkymod&layout=compact&theme=dracula&hide_border=true" />
-
----
-
 ### Languages and Tools 
 
 <img align="left" alt="CSHARP" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
@@ -36,3 +29,7 @@
 <img align="left" alt="CSS3" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="NODEJS" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img align="middle" alt="RPI" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" />
+
+---
+<img align="left" width="440px" src="https://github-readme-stats-sparkymod.vercel.app/api?username=Sparkymod&show_icons=true&theme=dracula&hide_border=true" />
+<img align="right"  width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkymod&layout=compact&theme=dracula&hide_border=true" />

@@ -1,4 +1,4 @@
-### Hi there, I'm Sparkymod! 👋
+### Hi there, I'm Sparkymod! <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="16">
 
 ## I'm Tech enthusiastic, Developer and Gamer 😎
 - 🖥️ I'm a spanish developer, coding mainly in **C#** and **.NET**. 
@@ -16,8 +16,8 @@
 
 
 ---
-<img align="left" alt="Sparkymod's Github Stats" src="https://github-readme-stats-sparkymod.vercel.app/api?username=Sparkymod&show_icons=true&hide_border=true&theme=merko" />
-
+<img align="left" src="https://github-readme-stats-sparkymod.vercel.app/api?username=Sparkymod&show_icons=true&theme=dracula&hide_border=true" />
+<img align="center" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkymod&layout=compact&theme=dracula&hide_border=true" />
 
 ### Languages and Tools 
 

@@ -14,6 +14,8 @@
 * **Discord:** Sparkmod#1935 
 * **Youtube:** [My Channel](https://www.youtube.com/c/funpixart)
 
+![](https://komarev.com/ghpvc/?username=sparkymod&color=green)
+
 ### Languages and Tools 
 
 <img align="left" alt="CSHARP" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />

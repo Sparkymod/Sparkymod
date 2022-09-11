@@ -6,7 +6,7 @@
 - ✔️ I particularly like data processing, machine learning and simulation.
 - 🧑🏻‍🤝‍🧑🏻 I'm looking forward to collaborate with others developers.
 - 🌱 Currently learning everything.🤣
-- 🥅 2021-2022 Goals: Contribute more to Open Source Projects.
+- 🥅 2022-2023 Goals: Contribute more to Open Source Projects.
 
 ### Contact 
 

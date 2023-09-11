@@ -5,14 +5,15 @@
 - 🎮 I love videogames and code, in my free time i code some utilities and play guitar or games. 
 - ✔️ I particularly like data processing, machine learning and simulation.
 - 🧑🏻‍🤝‍🧑🏻 I'm looking forward to collaborate with others developers.
-- 🌱 Currently learning everything.🤣
-- 🥅 2022-2023 Goals: Contribute more to Open Source Projects.
+- 🌱 Currently learning Unity and Typescript.🤣
+- 🥅 2023-2024 Goals: Release my first complete Game.
 
 ### Contact 
 
 * **Mail:** funpixart@gmail.com
 * **Discord:** Sparkmod#1935 
 * **Youtube:** [My Channel](https://www.youtube.com/c/funpixart)
+* **Personal Blog:** [BlazorForge](https://blazorforge.com)
 
 ![](https://komarev.com/ghpvc/?username=sparkymod&color=green)
 

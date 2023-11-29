@@ -10,7 +10,7 @@
 
 ### Contact 
 
-* **Mail:** funpixart@gmail.com
+* **Mail:** business@funpixart.com
 * **Discord:** Sparkmod#1935 
 * **Youtube:** [My Channel](https://www.youtube.com/c/funpixart)
 * **Personal Blog:** [BlazorForge](https://blazorforge.com)

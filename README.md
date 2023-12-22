@@ -6,7 +6,7 @@
 - ✔️ I particularly like data processing, machine learning and simulation.
 - 🧑🏻‍🤝‍🧑🏻 I'm looking forward to collaborate with others developers.
 - 🌱 Currently learning Unity and Typescript.🤣
-- 🥅 2023-2024 Goals: Release my first complete Game.
+- 🥅 2024-2025 Goals: Release my first complete Game.
 
 ### Contact 
 
